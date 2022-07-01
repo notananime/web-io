@@ -11,6 +11,7 @@ body {
     'Lucida Sans', Arial, sans-serif;
   width: 100%;
 }
+/* navbar */
 .navbar {
   background-color: #2e0249;
   display: flex;
@@ -34,6 +35,7 @@ body {
   color: #f806cc;
   text-decoration: none;
 }
+/*  header section*/
 .header {
   background-color: #2e0249;
   display: flex;
@@ -61,6 +63,7 @@ body {
   height: 300px;
   object-fit: cover;
 }
+/* main */
 .main-container {
   text-align: center;
   display: flex;
@@ -80,7 +83,7 @@ body {
   border: 2px solid #f806cc;
   border-radius: 10px;
 }
-
+/* section with quotes */
 .quotes {
   background-color: #570a57;
   color: #fff;
@@ -98,8 +101,9 @@ body {
 .quotes figcaption {
   text-align: right;
 }
+/* last secyion */
 .last-section {
-  margin:  auto;
+  margin: auto;
 }
 .card {
   background-color: #46244c;
